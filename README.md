@@ -167,6 +167,3 @@ Cette activité m'a permis de comprendre comment échanger des objets Java entre
 
 L'utilisation de l'interface `Serializable`, de `ObjectOutputStream` et de `ObjectInputStream` permet de transmettre un objet contenant les données d'une opération arithmétique. Le serveur traite l'objet reçu et renvoie le résultat au client.
 
-## 10. Dépôt du projet
-
-Le projet Java et le fichier README seront déposés sur GitHub. Le lien du repository sera ensuite soumis sur la plateforme ENT.
